@@ -35,7 +35,7 @@ JSON Web Token (JWT)
 
 ## Installation & Setup
 Step 1: Clone Repository
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/bhawnakushwaha/Expenso_Expense-Tracker.git 
 cd expense-tracker
 
 Step 2: Backend Setup
