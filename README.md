@@ -24,6 +24,7 @@ Export data to Excel
 
 Responsive FinTech-inspired UI
 
+Dynamically updating quotes
 
 ## Tech Stack
 Frontend : React.js, Tailwind CSS
