@@ -40,13 +40,19 @@ git clone https://github.com/bhawnakushwaha/Expenso_Expense-Tracker.git
 cd expense-tracker
 
 Step 2: Backend Setup
+
 cd backend
+
 npm install
+
 npm run dev
 
 Step 3: Frontend Setup
+
 cd frontend
+
 npm install
+
 npm run dev
 
 
