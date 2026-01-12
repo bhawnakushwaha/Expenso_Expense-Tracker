@@ -1,7 +1,7 @@
 # Expenso: Expense Tracker 
 A full-stack Expense Tracker web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project helps users track income and expenses, visualize spending behavior, and manage personal finances efficiently.
 
----
+
 ## Features
 
 User authentication using JWT
@@ -24,7 +24,7 @@ Export data to Excel
 
 Responsive FinTech-inspired UI
 
----
+
 ## Tech Stack
 Frontend : React.js, Tailwind CSS
 
@@ -32,7 +32,7 @@ Backend : Node.js, Express.js, MongoDB
 
 JSON Web Token (JWT)
 
----
+
 ## Installation & Setup
 Step 1: Clone Repository
 git clone https://github.com/your-username/expense-tracker.git
@@ -48,7 +48,7 @@ cd frontend
 npm install
 npm run dev
 
----
+
 ## Application Flow
 
 1. User registers or logs in securely
@@ -60,7 +60,7 @@ npm run dev
 7. Logout
 
 
----
+
 ## UI
 
 ### Login page and sign up page
